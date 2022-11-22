@@ -1,2 +1,2 @@
-# leon
-VSCode Light Theme
+# Leon Light VSCode Theme
+
