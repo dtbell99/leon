@@ -3,7 +3,7 @@
   "displayName": "leon",
   "description": "Leon: Light VSCode Theme",
   "publisher": "DavidBell",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "build": "vsce package",
     "deploy": "vsce publish"
@@ -16,10 +16,24 @@
   ],
   "repository": {
     "type": "git",
-    "url":"https://github.com/dtbell99/leon.git"
+    "url": "https://github.com/dtbell99/leon.git"
   },
   "icon": "leon.png",
-  "keywords": ["light", "theme", "lite", "purple", "orange", "leon", "david", "bell", "dtbell99", "typescript", "javascript", "nodejs", "node"],
+  "keywords": [
+    "light",
+    "theme",
+    "lite",
+    "purple",
+    "orange",
+    "leon",
+    "david",
+    "bell",
+    "dtbell99",
+    "typescript",
+    "javascript",
+    "nodejs",
+    "node"
+  ],
   "contributes": {
     "themes": [
       {
@@ -28,5 +42,8 @@
         "path": "./themes/Leon-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
   }
 }
