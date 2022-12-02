@@ -9,7 +9,7 @@
     "deploy": "vsce publish"
   },
   "engines": {
-    "vscode": "^1.73.0"
+    "vscode": "^1.69.0"
   },
   "categories": [
     "Themes"
