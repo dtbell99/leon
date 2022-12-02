@@ -3,7 +3,7 @@
   "displayName": "leon",
   "description": "Leon: Light VSCode Theme",
   "publisher": "DavidBell",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "scripts": {
     "build": "vsce package",
     "deploy": "vsce publish"
